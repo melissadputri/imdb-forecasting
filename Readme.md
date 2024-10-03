@@ -1,8 +1,8 @@
 This project is part of The University of Melbourne BSc (Data Science) coursework.
 This project was done in partnership with Jerrilyn Looi as acreditted below.
 
-COMP30027 Machine Learning 2024
-Assignment 2
+# COMP30027 Machine Learning 2024
+# Assignment 2
 
 The contents of the zip file includes:
 * One Jupyter notebook ("COMP30027_2024_project2.ipynb") which contains all models, analytics, and code.
